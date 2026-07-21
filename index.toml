@@ -106,6 +106,11 @@ hash = "9b831e115993c10d0e8b3d187584393685ba0abfaa3ab3ca6ee9dfdf6e1a8e70"
 metafile = true
 
 [[files]]
+file = "mods/create-jei-compat.pw.toml"
+hash = "25947bbade82915247722fa615f49f27b108a405313e43762f2c7b985e881f00"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "d327df3f6a94994d53cd6095cb8e0af813cab6e31ba49bc5f048ebfdd42d4b6e"
 metafile = true
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
+hash = "7b3f850aabcc2bb67dd543c8bbe7b84869585856b9494b4ebb36dc9b27b3893d"
 metafile = true
 
 [[files]]
