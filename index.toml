@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".packwizingore"
-hash = "250c79dd1bc499705c06c36efb398177a632a43f229e22b66f23f0c2cbab61e6"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
@@ -163,10 +159,6 @@ metafile = true
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
-
-[[files]]
-file = "mods/file.txt"
-hash = "1d0dd90fb0fff2b7fdb7c05b573769bd39845fb34bd284c56a3d8211f9dd54f0"
 
 [[files]]
 file = "mods/fishing-bobber-detector.pw.toml"
@@ -367,7 +359,3 @@ metafile = true
 file = "mods/xaeros-minimap.pw.toml"
 hash = "03b30d68893aff0507d36044ab3b43e586f4412274b5de0abe193b9f4a754905"
 metafile = true
-
-[[files]]
-file = "refresh.bat"
-hash = "4152c3dfc386ec3b9ef0dfae9a9ab249eaa2d6e6452e36f03393f2ada6cec17e"
