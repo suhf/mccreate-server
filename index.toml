@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-better-fps.pw.toml"
-hash = "4d74d0e023a738e33e8a822dba14dee010ab9d0dc9f5629b5ee3e0b8921b0a7e"
+hash = "b67d04b145d59b79200f3843a51d1578210aa245ccb124944c912ea6bb114185"
 metafile = true
 
 [[files]]
@@ -137,12 +137,12 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
+hash = "11a152babe9dd0a19768145d01c521119ee95a21ce50a67162ecf445cef22900"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "12da1b8ffc71a8ca9431f40650d1858df798c3c752ed8b4d25b943b6c19caab5"
+hash = "c0c933ee7a239f66410ff3cabfe12a9b7730da2c92719fdc8bceab58b48a8781"
 metafile = true
 
 [[files]]
@@ -186,12 +186,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bc924fa68f034e9d7fc3b9fcf965974ffb343dd74bc99517329bd054dedbd645"
+hash = "227f0857b1816ef9ee053be4244d8c477694497e621d7e52a0e62d3e2f0e3600"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "5c587bc00ae3313594b828a3a2320a7650383cae685ecd35b9e0db3312baab7a"
+hash = "18b83ce8ff3619e075192094bd2dacfcf068345b94186bb7aceb8d1fb073d19c"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "fb705626e084b08d05865e8b1a34076f56e55eadf42c4791f96fe053f4e5d601"
+hash = "caffc53a9300f3bad7df3626cf982f5b94a83ba987a99dc29acf997cf44f1ccf"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4e146ee6009a3f7a0e91d6324002081b3feda0bd5e3b0fa6137e564e0df67a99"
+hash = "39ee7758ee9b97ac037f70099417b3b146493d47ed46e5d878c693fd43963a54"
 metafile = true
 
 [[files]]
@@ -363,3 +363,7 @@ metafile = true
 file = "mods/xaeros-minimap.pw.toml"
 hash = "03b30d68893aff0507d36044ab3b43e586f4412274b5de0abe193b9f4a754905"
 metafile = true
+
+[[files]]
+file = "refresh.bat"
+hash = "1ece875a3a7aa5a26f3db26f0ae8e5f8573c8ea59b36e90e3080614a017228a7"

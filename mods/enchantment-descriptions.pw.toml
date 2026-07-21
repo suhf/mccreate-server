@@ -1,6 +1,6 @@
 name = "Enchantment Descriptions"
 filename = "enchdesc-neoforge-1.21.1-21.1.10.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,7 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8240827
 project-id = 250419
-
-[side]
-client = "required"
-server = "unsupported"
