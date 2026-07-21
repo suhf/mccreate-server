@@ -1,0 +1,13 @@
+name = "M 121 Create"
+author = "me"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "25006ae30e802e79056242eac6cf95d34f56bfbb29b4b30edf248f95a4769415"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.242"
