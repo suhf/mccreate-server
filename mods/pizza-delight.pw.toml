@@ -1,13 +1,13 @@
 name = "Pizza Delight"
-filename = "pizzadelight-1.21.1-2.0.1.jar"
+filename = "pizzadelight-1.1.3-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "210582448f4b97621bb3935eb66c423a846e1a14"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Cb5J3sNW/versions/5aKajVII/pizzadelight-1.1.3-1.21.1.jar"
+hash-format = "sha512"
+hash = "675cb25e7dd963b962037c3695020123ff1ec217d79cd62ac4a21b68bdef10c9dea3536d008fd9b978a835f6257f8fa133b75bfcd3c8e700217dcb5fa475886a"
 
 [update]
-[update.curseforge]
-file-id = 7107381
-project-id = 1113260
+[update.modrinth]
+mod-id = "Cb5J3sNW"
+version = "5aKajVII"
