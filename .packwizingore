@@ -1,0 +1,5 @@
+# Packwiz 무시 목록
+refresh.bat
+update_packwiz.bat
+*.bat
+file.txt

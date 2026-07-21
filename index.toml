@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".packwizingore"
+hash = "250c79dd1bc499705c06c36efb398177a632a43f229e22b66f23f0c2cbab61e6"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
