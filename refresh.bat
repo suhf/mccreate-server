@@ -37,8 +37,8 @@ echo ==================================================
 pause
 """
 
-file_path = "update_pack.bat"
+file_path = "update_packwiz.txt"
 with open(file_path, "w", encoding="utf-8") as f:
     f.write(content)
 
-print(f"Created: {file_path}")
+print(f"Created {file_path}")
