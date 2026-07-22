@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "247b19121eb994cfe4ea5bcba466c73abbe8852590abd81e64c36e173df243f0"
+
+[[files]]
 file = "config/iris.properties"
 hash = "65a2c00b46dd1438418d8426c27f8b8d950192669f1fada4ebcb7bafb4329c87"
 
