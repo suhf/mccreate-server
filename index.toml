@@ -329,11 +329,6 @@ hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
-file = "mods/server-redirect.pw.toml"
-hash = "acb7db304f6e7519fe5e246d3c7028a9e5e2343af007caa1edff8598bed7e8b7"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
