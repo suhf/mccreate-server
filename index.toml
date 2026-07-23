@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-redirect.pw.toml"
-hash = "5bedbec6eed82944c3fe0c1fecd429ffce33e06a1a1a710fb955972e1b67c49f"
+hash = "acb7db304f6e7519fe5e246d3c7028a9e5e2343af007caa1edff8598bed7e8b7"
 metafile = true
 
 [[files]]

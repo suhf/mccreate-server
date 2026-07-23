@@ -1,6 +1,6 @@
 name = "Server Redirect"
 filename = "ServerRedirect-ForgeMC21-1.4.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YqkxTQEh/versions/i2X4GeD5/ServerRedirect-ForgeMC21-1.4.5.jar"
