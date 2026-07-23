@@ -264,6 +264,11 @@ hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
 
 [[files]]
+file = "mods/neovelocity.pw.toml"
+hash = "701c3f61feb03b71471f951249996e61f1c75e7951825e61f039030bd05771b8"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
