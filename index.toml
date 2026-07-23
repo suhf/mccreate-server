@@ -239,6 +239,11 @@ hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "3cd4e2a80d680cd1ac576124a24f0a2a73daada229eacaf55a76f21e82241069"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "fb6171c8f7ff0d83513b3f75ee5d7a98659559c427d79fb69eb0219639af8a37"
 metafile = true
@@ -309,6 +314,11 @@ hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
 metafile = true
@@ -326,11 +336,6 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "243033139e54f4ed31c168d45ac50e1ec9085fd88d9cc1f3949f52300525a02a"
-metafile = true
-
-[[files]]
-file = "mods/simple-custom-portal.pw.toml"
-hash = "cde5aeaa771691f833984a0847649ab1a09d521fb2b55fd08c3d9c16b9dd6dd1"
 metafile = true
 
 [[files]]
