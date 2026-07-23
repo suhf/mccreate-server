@@ -1,0 +1,13 @@
+name = "Server Redirect"
+filename = "ServerRedirect-ForgeMC21-1.4.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YqkxTQEh/versions/i2X4GeD5/ServerRedirect-ForgeMC21-1.4.5.jar"
+hash-format = "sha512"
+hash = "e958d823a1d6982d78dfdddebec97fd3b658fbeff8b564792a54bed7a46ac1e05e6d4503c51382ded9367e9d00bf4234b5d70e1ddb2b9c14ec04db4889c62b00"
+
+[update]
+[update.modrinth]
+mod-id = "YqkxTQEh"
+version = "i2X4GeD5"

@@ -329,6 +329,11 @@ hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
+file = "mods/server-redirect.pw.toml"
+hash = "5bedbec6eed82944c3fe0c1fecd429ffce33e06a1a1a710fb955972e1b67c49f"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
