@@ -329,6 +329,11 @@ hash = "243033139e54f4ed31c168d45ac50e1ec9085fd88d9cc1f3949f52300525a02a"
 metafile = true
 
 [[files]]
+file = "mods/simple-custom-portal.pw.toml"
+hash = "cde5aeaa771691f833984a0847649ab1a09d521fb2b55fd08c3d9c16b9dd6dd1"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a2348299d70ed7af9bb57b1a8ff034dd3136ff9468aa91479405f2599cd1c0a9"
 metafile = true

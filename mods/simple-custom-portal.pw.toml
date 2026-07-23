@@ -1,0 +1,13 @@
+name = "Simple Custom Portal"
+filename = "simp_cm_portal-1.0.0.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8RNYyZJA/versions/IkLySbiR/simp_cm_portal-1.0.0.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "0ff705a76b9147cfe04e34f28cd825395fc0c7b46e8fefc0bb77c9d72130fa1445c7ab354aad2236898d39033e5fe57c0143917f25d3631c46bf03be7699f71a"
+
+[update]
+[update.modrinth]
+mod-id = "8RNYyZJA"
+version = "IkLySbiR"
