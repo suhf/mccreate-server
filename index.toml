@@ -234,6 +234,11 @@ hash = "7b3f850aabcc2bb67dd543c8bbe7b84869585856b9494b4ebb36dc9b27b3893d"
 metafile = true
 
 [[files]]
+file = "mods/korean-chat-patch.pw.toml"
+hash = "b22af1a7326f0edc5f07cb79512117e700764f964e66e8c3a201229010f1779d"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
 metafile = true
