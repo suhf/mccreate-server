@@ -1,0 +1,13 @@
+name = "JEI Enhancements"
+filename = "jei_enhancements-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6n995rcN/versions/TL9MtLP5/jei_enhancements-1.0.0.jar"
+hash-format = "sha512"
+hash = "66b02369f6d16b968d2aba2f7f1cdf7635fc28d33f38f41e208f4081e1b6e7c89d0a3b0080d1732a1ca1e34b5aa214dd614f4197c60bc015e13af3a5ac6ff290"
+
+[update]
+[update.modrinth]
+mod-id = "6n995rcN"
+version = "TL9MtLP5"

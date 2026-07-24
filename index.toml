@@ -64,6 +64,11 @@ hash = "ff26de9f383ba6ab7b85fa6bc17ac8494411ccf31e4f35abcd841e07b3c83031"
 metafile = true
 
 [[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "479dab388743fb59d3399d2d87a0a7dc0819a4184b74f734fa9cc1eecdd6f6f6"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
@@ -229,8 +234,28 @@ hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
 
 [[files]]
+file = "mods/jei-enhancements.pw.toml"
+hash = "cae5630187675cec770bd6bcfec4a0a1c1ca3ed5760eebcf714197a9379c2f77"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "7b3f850aabcc2bb67dd543c8bbe7b84869585856b9494b4ebb36dc9b27b3893d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-beacons-reforged.pw.toml"
+hash = "7ca67e45e5ff8092ea662cdab8d9c30341b69a5f6fcb3e9a42557ed3867a01b1"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "bffd4067f92d5d8ed7a8a3acfdae213e9523ba5a518196cbd0a98d05e95fe6b6"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "02b09e3cbc4023ab93be3a38031e7f9babacf3e22ec04903718184aa0c00d630"
 metafile = true
 
 [[files]]
@@ -356,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "4471a72e75f8440bb676379553e053dfda5a9ac81af80bb58aff0505b9276df8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-jei-index.pw.toml"
+hash = "8446f65b8ce73dbc243b90ab6ec025468cd625937f4824abaeaccfbf05822b80"
 metafile = true
 
 [[files]]
