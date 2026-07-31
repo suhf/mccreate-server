@@ -29,8 +29,13 @@ hash = "fbbea448bb6a8bdab5d9f10fb5d27d177a0e7998fb4d797287f0a83b6f89e6d2"
 metafile = true
 
 [[files]]
+file = "mods/arc.pw.toml"
+hash = "310733b9f1aeb291a02919db39d62e013780e66f5f23db2fea46ed986389c561"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -229,6 +234,11 @@ hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
 metafile = true
 
 [[files]]
+file = "mods/item-restrictions.pw.toml"
+hash = "f51ea7096c93ba3b10b2a2463ffe8ba9157acd4a133b4b730d56e204265858e5"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
 metafile = true
@@ -414,6 +424,11 @@ hash = "98796f38bc82aacfb155506a662df4f19a26e810962a1ca2337dd584718badcd"
 metafile = true
 
 [[files]]
+file = "mods/ui-lib.pw.toml"
+hash = "4aecbee62e1c5c4ad4cca91839f1645b92e164e6420d97b2f0088d02e5a57be2"
+metafile = true
+
+[[files]]
 file = "mods/veggies-delight.pw.toml"
 hash = "7b2b4a09579f0edcf1172a33a298893c7d806c7c293e79ee315ac937f8dfa4a0"
 metafile = true
@@ -426,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "03b30d68893aff0507d36044ab3b43e586f4412274b5de0abe193b9f4a754905"
+metafile = true
+
+[[files]]
+file = "mods/yaml-config.pw.toml"
+hash = "390fb4a5f6798752bf972089fb1da0cda9aa9b5d96a76ca48ebd608006c27e6e"
 metafile = true
 
 [[files]]
