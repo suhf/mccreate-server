@@ -104,6 +104,11 @@ hash = "41cbceff43ac74133823335b2fa44d21674c0ec7f4189cf6792ba9540c7108e2"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "e8752ccef8c59a6544354d66182d14161184ed1985ea5060dfbef5819a08db82"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight-forge.pw.toml"
 hash = "a5578f795f7169a55dadfc4e56833730bf8f6d7232c1e9df2af32b7606611767"
 metafile = true
@@ -221,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3e6d3262ebbf9838ab67178f71480edf47f55a074b4abd8527e862cdeb57d362"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "8e5e8e0c5e2a5f1de43a73d3e81d0397a3873d383d885a9aaa080a7e0c2b242f"
 metafile = true
 
 [[files]]
