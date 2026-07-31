@@ -339,6 +339,11 @@ hash = "67f092232a92992046932f1f157c883d6a560c6ffe1de61b1fc6c7e83a0a9f52"
 metafile = true
 
 [[files]]
+file = "mods/picturesign.pw.toml"
+hash = "319f18617e05e45893b5f75edff86e8742e769e427a8f37b43593faa6a8484df"
+metafile = true
+
+[[files]]
 file = "mods/pineapple-delight.pw.toml"
 hash = "da2d56425b30724e748f5c045fda5d0f1ea0c389c494d315be056881b2e2ccd0"
 metafile = true
@@ -456,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "b77a560d6c4a3f4558ee0b977463de1283b6b1c39fd565883f9b35df2453cd3d"
 metafile = true
 
 [[files]]
