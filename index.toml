@@ -124,6 +124,11 @@ hash = "b6ac94e91f766466186d350ed45a79fdcf7805f34d9170ccc8612ff47983a5f5"
 metafile = true
 
 [[files]]
+file = "mods/create-bionics.pw.toml"
+hash = "e5c78e8ce363c7062971df2cdd915c1879eeff6e34cda572969e2e10e0685ff1"
+metafile = true
+
+[[files]]
 file = "mods/create-coasters-simulated.pw.toml"
 hash = "8d3d93487823b5c630123d9796f670114f9ffefc5361fc133a6a30be2f6369ed"
 metafile = true

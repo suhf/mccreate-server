@@ -1,0 +1,13 @@
+name = "Create: Bionics"
+filename = "createbionics-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lCwu0vBo/versions/LPe6CFao/createbionics-2.0.8.jar"
+hash-format = "sha512"
+hash = "84f2ee3c19faca538c521b8e48252431750bcc0df8377e3ad3308df8863a6d3bf97286462b46d5c006269f276e04e0014ff82862c2b2547b32be5ea52d92d297"
+
+[update]
+[update.modrinth]
+mod-id = "lCwu0vBo"
+version = "LPe6CFao"
