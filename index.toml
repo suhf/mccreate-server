@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jei-compat.pw.toml"
-hash = "25947bbade82915247722fa615f49f27b108a405313e43762f2c7b985e881f00"
+hash = "0bfe281ddfbe98454d57fb2227962065796717739d81a912a075b0c8df232c6b"
 metafile = true
 
 [[files]]
@@ -299,6 +299,11 @@ hash = "bffd4067f92d5d8ed7a8a3acfdae213e9523ba5a518196cbd0a98d05e95fe6b6"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-recipe-sharing.pw.toml"
+hash = "ef9007020b6f13d8cef6d1190f5d4cd75f3c82414c1fa3d68de8b55b1a38d7ce"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "02b09e3cbc4023ab93be3a38031e7f9babacf3e22ec04903718184aa0c00d630"
 metafile = true
@@ -316,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "32551cd3db88210863565b772ee47679cbf1eeff163fb93b9ef84a79fa069496"
 metafile = true
 
 [[files]]
@@ -385,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
+hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
@@ -435,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-jei-index.pw.toml"
-hash = "8446f65b8ce73dbc243b90ab6ec025468cd625937f4824abaeaccfbf05822b80"
+hash = "f857e5555cb14aaca111314cff36570a0d9047f7016ec53ce935d093ea796dd5"
 metafile = true
 
 [[files]]
