@@ -104,6 +104,11 @@ hash = "41cbceff43ac74133823335b2fa44d21674c0ec7f4189cf6792ba9540c7108e2"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "e8752ccef8c59a6544354d66182d14161184ed1985ea5060dfbef5819a08db82"
 metafile = true
@@ -246,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3e6d3262ebbf9838ab67178f71480edf47f55a074b4abd8527e862cdeb57d362"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armor-hud.pw.toml"
+hash = "62b5891b0bc5e65014e484ca6acd78a3331a0686501cfdf4d736d9f0b50ea3bc"
 metafile = true
 
 [[files]]
@@ -474,6 +484,11 @@ hash = "98796f38bc82aacfb155506a662df4f19a26e810962a1ca2337dd584718badcd"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
 file = "mods/ui-lib.pw.toml"
 hash = "4aecbee62e1c5c4ad4cca91839f1645b92e164e6420d97b2f0088d02e5a57be2"
 metafile = true
@@ -501,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/watervision.pw.toml"
 hash = "393310e8c75c51eb3143c8ddcdac51917a5d759d428e5b962e4c2b4c8e87bc0e"
+metafile = true
+
+[[files]]
+file = "mods/whats-that-slot.pw.toml"
+hash = "56b663b466efa5e80c7892d7db98dbf813dcb88943c3c1952fbc31d520898977"
 metafile = true
 
 [[files]]
