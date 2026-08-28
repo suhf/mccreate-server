@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
+hash = "48ccf754257a1d140c12e4cee3bd7901392023fcd5a3fc961b7275448459fe73"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+hash = "0b0b8ec73c689824125ed9c568deff51b0adca52aee27e49a114b04ff3f73abe"
 metafile = true
 
 [[files]]
